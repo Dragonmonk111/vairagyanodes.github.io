@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VairagyaNodes - Juno Validator</title>
+  <style>
+    body { font-family: sans-serif; background: #f9f9f9; text-align: center; padding-top: 60px; }
+    .container { background: #fff; display: inline-block; padding: 40px 60px; border-radius: 12px; box-shadow: 0 2px 8px #ccc; }
+    h1 { color: #4e54c8; }
+    h2 { color: #222; margin-top: 2em; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 0.5em 0; }
+    a { color: #4e54c8; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>VairagyaNodes</h1>
+    <p><strong>Validator for the Juno Network</strong></p>
+
+    <h2>About Us</h2>
+    <p><!-- Write a brief introduction about your validator here --></p>
+
+    <h2>Mission</h2>
+    <p><!-- State your validator's mission or goals here --></p>
+
+    <h2>Why Delegate to Us?</h2>
+    <ul>
+      <li><!-- Reason 1 --></li>
+      <li><!-- Reason 2 --></li>
+      <li><!-- Reason 3 --></li>
+    </ul>
+
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: <!-- your@email.com --></li>
+      <li>Keybase: <a href="https://keybase.io/dragonmonk111">dragonmonk111</a></li>
+      <li>Twitter: <!-- @yourhandle --></li>
+      <li>Discord: <!-- your Discord link or tag --></li>
+    </ul>
+
+    <h2>Links</h2>
+    <ul>
+      <li><a href="https://www.mintscan.io/juno/validators">Mintscan Validator Profile</a></li>
+      <li><a href="https://keybase.io/dragonmonk111">Keybase Profile</a></li>
+      <li><!-- Add more links as needed --></li>
+    </ul>
+
+    <h2>Logo</h2>
+    <img src="<!-- Your logo URL here -->" alt="VairagyaNodes Logo" style="width:120px;border-radius:50%;">
+
+    <h2>Other Information</h2>
+    <p><!-- Any other details, such as uptime, governance, or community involvement --></p>
+  </div>
+</body>
+</html>
